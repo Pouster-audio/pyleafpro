@@ -7,7 +7,22 @@ link para curso[python pro](https://www.python.pro.br/curso-de-python-gratis)
 
 suportada versão 3 de python
 
- tópicos a serem abordados:
+Para instalar:
+
+```console
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-dev.txt
+```
+
+Para conferir qualidade do código:
+
+```console
+flake8
+
+```
+
+tópicos a serem abordados:
   1.Git
   2.virtualenv
   3.Pip
