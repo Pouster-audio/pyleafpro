@@ -3,7 +3,11 @@ Módulo para exemplificar construção de projetos python do curso pytools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
-link para curso [python pro] (https://www.python.pro.br/curso-de-python-gratis)
+link para curso [python pro](https://www.python.pro.br/curso-de-python-gratis)
+
+
+[![Updates](https://pyup.io/repos/github/Pouster-audio/pyleafpro/shield.svg)](https://pyup.io/repos/github/Pouster-audio/pyleafpro/)
+[![Python 3](https://pyup.io/repos/github/Pouster-audio/pyleafpro/python-3-shield.svg)](https://pyup.io/repos/github/Pouster-audio/pyleafpro/)
 
 suportada versão 3 de python
 
