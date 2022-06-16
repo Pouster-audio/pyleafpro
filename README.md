@@ -1,9 +1,9 @@
-# pyleafpro
+# pyleafpro ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/pouster-audio/pyleafpro/Python%20application)
 Módulo para exemplificar construção de projetos python do curso pytools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
-link para curso[python pro](https://www.python.pro.br/curso-de-python-gratis)
+link para curso [python pro] (https://www.python.pro.br/curso-de-python-gratis)
 
 suportada versão 3 de python
 
