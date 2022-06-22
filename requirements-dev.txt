@@ -10,4 +10,9 @@ tomli==1.0.0
 pluggy==0.12
 pyparsing!==2.0.2
 pytest==7.1.2
+
+#para pytest
+coverage==6.4.1
+pytest_cov==3.0.0
+tomli==2.0.1
 -r requirements.txt
