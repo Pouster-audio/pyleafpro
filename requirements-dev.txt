@@ -15,6 +15,6 @@ pytest==7.1.2
 
 #para pytest
 coverage==6.4.1
-pytest_cov==3.0.0
+pytest-cov==3.0.0
 tomli==2.0.1
 -r requirements.txt
