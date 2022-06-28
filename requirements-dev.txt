@@ -3,7 +3,6 @@ mccabe==0.7.0
 pycodestyle==2.8.0
 pyflakes==2.4.0
 
-
 # Deps do pytest
 py==1.11.0
 attrs==21.4.0
@@ -11,7 +10,6 @@ tomli==2.0.1
 pluggy=1.0.0
 pyparsing!==3.0.9
 pytest==7.1.2
-
 
 # para pytest
 coverage==6.4.1
